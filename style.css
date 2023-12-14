@@ -185,6 +185,9 @@ footer{
     justify-content: space-evenly;
     
 }
+p{
+    font-weight: 700;
+}
 .foot_panel2 ul a{
     display: block;
     font-size: 0.85rem;
